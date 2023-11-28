@@ -21,7 +21,7 @@ Este repositório contém o código-fonte e a documentação para a aplicação 
 3. Siga as instruções de instalação no arquivo**`README.md`**
 
 # Contribuições:
-Contribuições são bem-vindas! Sinta-se à vontade para enviar um email a reportar bugs e melhorias.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar um email a reportar bugs e melhorias ou abrir problemas(issues) e enviar pull requests.
 
 # Contato:
 
