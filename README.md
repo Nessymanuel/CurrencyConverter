@@ -5,14 +5,13 @@ Este repositório contém o código-fonte e a documentação para a aplicação 
 
 - Interface de usuário amigável
 - Atualização automática das taxas de câmbio
-- Suporte para duas  moedas diferentes
+- Suporte para 161  moedas diferentes
 
 # Tecnologias Utilizadas:
 
 - **React Native:** É um framework para construção de aplicativos móveis usando JavaScript e React. Ele permite desenvolver aplicativos nativos para iOS e Android com um único código-base.
 - **Expo:** É uma estrutura que facilita o desenvolvimento de aplicativos React Native, fornece ferramentas e serviços adicionais, como a capacidade de testar e implantar aplicativos de forma fácil e rápida.
 - **Axios:** É uma biblioteca JavaScript usada para fazer requisições HTTP. No projeto, o Axios é utilizado para fazer transações com API ExchangeRate-API para obter taxas de câmbio.
-- **React Navigation:** É uma biblioteca de navegação para React Native, utilizada para gerenciar a navegação entre as diferentes telas do aplicativo.
 
 # Como começar:
 
@@ -27,5 +26,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um email a repo
 
 - Gracieth Manuel - graciethmanuel13@gmail.com
 
-#
-Desenvolvido por Gracieth manuel <3 
+# 
+Desenvolvido com 💙 por Gracieth Manuel
+ 
