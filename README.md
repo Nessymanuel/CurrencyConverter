@@ -26,3 +26,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um email a repo
 # Contato:
 
 - Gracieth Manuel - graciethmanuel13@gmail.com
+
+#
+Desenvolvido por Gracieth manuel <3 
